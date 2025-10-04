@@ -1,0 +1,4 @@
+John F. Kennedy,Ministro Pistarini,United Airlines,20
+Campinas,Tancredo Neves,LATAM,24
+Jorge Chavez,Humberto Delgado,Delta,18
+Humberto Delgado,Madrid-Barajas,United Airlines,190

@@ -1,0 +1,12 @@
+John F. Kennedy,Ministro Pistarini,8535,0,{United Airlines-96,}
+John F. Kennedy,Madrid-Barajas,5774,0,{Delta-152,}
+John F. Kennedy,Campinas,7223,0,{LATAM-90,}
+Campinas,Tancredo Neves,481,1,{LATAM-120,}
+Campinas,Ministro Pistarini,3035,0,{LATAM-20,Aerolineas-168,}
+Madrid-Barajas,Ministro Pistarini,10086,0,{Delta-100,LATAM-120,}
+Tancredo Neves,Ministro Pistarini,3460,0,{Delta-120,LATAM-120,}
+Tancredo Neves,Jorge Chavez,1897,0,{United Airlines-200,}
+Jorge Chavez,Ministro Pistarini,6390,0,{United Airlines-96,}
+Jorge Chavez,Humberto Delgado,9390,0,{Delta-152,LATAM-210,}
+Humberto Delgado,Ministro Pistarini,9750,0,{United Airlines-96,Delta-120,LATAM-120,}
+Humberto Delgado,Madrid-Barajas,1025,0,{United Airlines-96,}

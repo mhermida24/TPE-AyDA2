@@ -1,0 +1,7 @@
+Ministro Pistarini,Ezeiza,ARG
+Campinas,San Pablo,BRA
+John F. Kennedy,New York,USA
+Madrid-Barajas,Madrid,ESP
+Tancredo Neves,Belo Horizonte,BRA
+Jorge Chavez,Lima,PER
+Humberto Delgado,Lisboa,POR
